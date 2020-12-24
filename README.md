@@ -1,6 +1,7 @@
 # Elasticsearch 5.4 中文文档
 
 +   [在线阅读](https://elasticsearch.apachecn.org)
++   [在线阅读（Gitee）](https://apachecn.gitee.io/elasticsearch-doc-zh/)
 
 
 ## 下载
